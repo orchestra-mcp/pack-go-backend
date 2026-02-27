@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-go-backend",
+    "description": "Go backend skills and agents for Fiber, GORM, and REST APIs",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["go"],
+    "contents": {
+        "skills": ["go-backend"],
+        "agents": ["go-architect", "qa-go"],
+        "hooks": []
+    },
+    "tags": ["go", "backend", "fiber", "gorm", "rest-api"]
+}
